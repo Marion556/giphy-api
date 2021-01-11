@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+  }
+
+  h1 {
+    color:white;
+    font-family: Eater;
+    font-size: 90px;
+  }
+
+  #submit {
+      background-color: black;
+      color: white;
+      padding: 10px;
+  }
+
+  #remove {
+      background-color: red;
+      color: white;
+      padding: 10px;
+  }
+
+  #keyword {
+    padding: 10px;
+  }
+
+  #images {
+    margin: 10px 0px 0px 0px;
+}
